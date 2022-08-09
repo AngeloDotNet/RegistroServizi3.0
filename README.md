@@ -1,4 +1,4 @@
-# RegistroServizi3.0
+# Registro Servizi 3.0
 
 This project is a 3.0 version of an existing application developed by Luca Memini (https://bit.ly/3yt4fuc).
 
