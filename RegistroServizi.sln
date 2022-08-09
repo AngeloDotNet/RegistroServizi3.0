@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistroServizi.Web.Server", "src\RegistroServizi.Web.Server\RegistroServizi.Web.Server.csproj", "{167A6336-A2F8-402C-8E02-145896289810}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistroServizi.Web.Client", "src\RegistroServizi.Web.Client\RegistroServizi.Web.Client.csproj", "{A8BBEA7F-0298-4620-B5A2-2734141D545A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167A6336-A2F8-402C-8E02-145896289810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167A6336-A2F8-402C-8E02-145896289810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167A6336-A2F8-402C-8E02-145896289810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167A6336-A2F8-402C-8E02-145896289810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BBEA7F-0298-4620-B5A2-2734141D545A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BBEA7F-0298-4620-B5A2-2734141D545A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BBEA7F-0298-4620-B5A2-2734141D545A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BBEA7F-0298-4620-B5A2-2734141D545A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461D4CC9-DDC7-4BF5-B25D-9B8EE00BE19D}
+	EndGlobalSection
+EndGlobal
