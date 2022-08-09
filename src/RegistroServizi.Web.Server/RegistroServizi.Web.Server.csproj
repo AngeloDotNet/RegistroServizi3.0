@@ -12,5 +12,9 @@
     <ProjectReference Include="..\RegistroServizi.Web.Client\RegistroServizi.Web.Client.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 
 </Project>
